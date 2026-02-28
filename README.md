@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://vvrl.cc/qbq76w
+**URL**: https://student-placement-guide.netlify.app/
 
 ## How can I edit this code?
 
